@@ -14,4 +14,5 @@ fi
 mkdir -p ~/code
 git clone https://github.com/tillhoff/tiny-bear.git
 
+./software/grub2.sh
 ./software/vscode.sh
